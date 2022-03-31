@@ -10,7 +10,11 @@ Copy of `cmatrix` but in Ru... oh, sorry, it's just C.
 ## Install
 
 Build:
-> make build
+```shell
+make build
+```
 
 Install:
-> make install
+```shell
+make install
+```
